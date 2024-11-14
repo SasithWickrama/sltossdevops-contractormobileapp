@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # contractor_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# sltossdevops-contractormobileapp
+>>>>>>> ea326c59553bbf2332628ac36d7e55fa8de03458
